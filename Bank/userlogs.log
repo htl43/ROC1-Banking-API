@@ -68,3 +68,169 @@ These are the Optional fields             12-January-2021 Tuesday EST 16:55:29
 [INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:55:56                
 [INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:55:56                
 [INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:55:56                
+[INFO]        com.bank.main.BankingMain       Welcome to Hieu's Bank APP V1.0.0             12-January-2021 Tuesday EST 16:56:14                
+[INFO]        com.bank.main.BankingMain       --------------------------------------------------             12-January-2021 Tuesday EST 16:56:14                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:56:14                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:56:14                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:56:14                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:56:14                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:56:14                
+[INFO]        com.bank.main.BankingMain       
+Register a new Customer account. Please fill all the required fields             12-January-2021 Tuesday EST 16:56:16                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:56:16                
+[INFO]        com.bank.main.BankingMain       Please choose a username             12-January-2021 Tuesday EST 16:56:16                
+[INFO]        com.bank.main.BankingMain       Please choose a password which is satisfied:             12-January-2021 Tuesday EST 16:56:28                
+[INFO]        com.bank.main.BankingMain       1)Password is at least 6 character and no longer than 20 characters             12-January-2021 Tuesday EST 16:56:28                
+[INFO]        com.bank.main.BankingMain       2)Password has at least one uppercase and one lowercase letters             12-January-2021 Tuesday EST 16:56:28                
+[INFO]        com.bank.main.BankingMain       3)Password has at least one number             12-January-2021 Tuesday EST 16:56:28                
+[INFO]        com.bank.main.BankingMain       Enter your first name             12-January-2021 Tuesday EST 16:56:32                
+[INFO]        com.bank.main.BankingMain       Enter your last name             12-January-2021 Tuesday EST 16:56:35                
+[INFO]        com.bank.main.BankingMain       
+These are the Optional fields             12-January-2021 Tuesday EST 16:56:56                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:56:56                
+[INFO]        com.bank.main.BankingMain       Enter your email , keep blank if you don't want             12-January-2021 Tuesday EST 16:56:56                
+[INFO]        com.bank.main.BankingMain       Enter your 10 digits phone number, keep blank if you don't want             12-January-2021 Tuesday EST 16:56:59                
+[INFO]        com.bank.main.BankingMain       Review your application. Type Y/y to confirm or type N/n for cancel             12-January-2021 Tuesday EST 16:57:06                
+[INFO]        com.bank.main.BankingMain       ----------------------------------------------------------------             12-January-2021 Tuesday EST 16:57:06                
+[INFO]        com.bank.main.BankingMain       Customer [email=, phone=2111222222, getId()=0, getUsername()=tom123, getPassword()=abc123, getFirstName()=tom, getLastName()=john]             12-January-2021 Tuesday EST 16:57:06                
+[WARN]        com.bank.main.BankingMain       Password must have at least one Uppercase Letter             12-January-2021 Tuesday EST 16:57:09                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:57:09                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:57:09                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:57:09                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:57:09                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:57:09                
+[INFO]        com.bank.main.BankingMain       Welcome to Hieu's Bank APP V1.0.0             12-January-2021 Tuesday EST 16:57:32                
+[INFO]        com.bank.main.BankingMain       --------------------------------------------------             12-January-2021 Tuesday EST 16:57:32                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:57:32                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:57:32                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:57:32                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:57:32                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:57:32                
+[INFO]        com.bank.main.BankingMain       
+Register a new Customer account. Please fill all the required fields             12-January-2021 Tuesday EST 16:57:42                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:57:42                
+[INFO]        com.bank.main.BankingMain       Please choose a username             12-January-2021 Tuesday EST 16:57:42                
+[INFO]        com.bank.main.BankingMain       Please choose a password which is satisfied:             12-January-2021 Tuesday EST 16:57:48                
+[INFO]        com.bank.main.BankingMain       1)Password is at least 6 character and no longer than 20 characters             12-January-2021 Tuesday EST 16:57:48                
+[INFO]        com.bank.main.BankingMain       2)Password has at least one uppercase and one lowercase letters             12-January-2021 Tuesday EST 16:57:48                
+[INFO]        com.bank.main.BankingMain       3)Password has at least one number             12-January-2021 Tuesday EST 16:57:48                
+[INFO]        com.bank.main.BankingMain       Enter your first name             12-January-2021 Tuesday EST 16:57:51                
+[INFO]        com.bank.main.BankingMain       Enter your last name             12-January-2021 Tuesday EST 16:57:54                
+[INFO]        com.bank.main.BankingMain       
+These are the Optional fields             12-January-2021 Tuesday EST 16:57:57                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:57:57                
+[INFO]        com.bank.main.BankingMain       Enter your email , keep blank if you don't want             12-January-2021 Tuesday EST 16:57:57                
+[INFO]        com.bank.main.BankingMain       Enter your 10 digits phone number, keep blank if you don't want             12-January-2021 Tuesday EST 16:57:58                
+[INFO]        com.bank.main.BankingMain       Review your application. Type Y/y to confirm or type N/n for cancel             12-January-2021 Tuesday EST 16:58:05                
+[INFO]        com.bank.main.BankingMain       ----------------------------------------------------------------             12-January-2021 Tuesday EST 16:58:05                
+[INFO]        com.bank.main.BankingMain       Customer [email=, phone=2113234567, getId()=0, getUsername()=tom123, getPassword()=Abc123, getFirstName()=Tom, getLastName()=Robert]             12-January-2021 Tuesday EST 16:58:05                
+[INFO]        com.bank.main.BankingMain       Your customer account have been registered successfully             12-January-2021 Tuesday EST 16:58:07                
+[INFO]        com.bank.main.BankingMain       Customer [ FirstName=Tom, LastName=Robert, email=, phone=2113234567]             12-January-2021 Tuesday EST 16:58:07                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:58:07                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:58:07                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:58:07                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:58:07                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:58:07                
+[INFO]        com.bank.main.BankingMain       
+Welcome to Login Account Menu, Please select one option below             12-January-2021 Tuesday EST 16:58:48                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:58:48                
+[INFO]        com.bank.main.BankingMain       1)I am a customer             12-January-2021 Tuesday EST 16:58:48                
+[INFO]        com.bank.main.BankingMain       2)I am a employee             12-January-2021 Tuesday EST 16:58:48                
+[INFO]        com.bank.main.BankingMain       3)Go Back             12-January-2021 Tuesday EST 16:58:48                
+[INFO]        com.bank.main.BankingMain       Enter customer username             12-January-2021 Tuesday EST 16:58:53                
+[INFO]        com.bank.main.BankingMain       Enter customer password             12-January-2021 Tuesday EST 16:59:05                
+[INFO]        com.bank.main.BankingMain       Login to customer account sucessful             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Customer [ FirstName=Tom, LastName=Robert, email=, phone=2113234567]             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       --------------------------------------------------             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Customer Account Menu, Please select one option below             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       =========================================             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       1)View Customer Info Details              12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       2)Apply for a new Bank Account             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       3)View all bank accounts' details             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       4)Deposit or WithDrawal to a bank account             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       5)Make A Transaction             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       6)Transactions Center             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       7)Logout             12-January-2021 Tuesday EST 16:59:08                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Apply for a new Bank account. Please follow the instruction             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ---------------------------             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Please select a number from 1-4 for bank's type, select 5 to GO BACK             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       1)Checking             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       2)Saving             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       3)Investment             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       4)Retirement             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       5)GO BACK             12-January-2021 Tuesday EST 16:59:24                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Inial balance for a new bank account must be greater than 200. Please enter the amount that you want to deposit today             12-January-2021 Tuesday EST 16:59:39                
+[WARN]        com.bank.account.login.CustomerAccountLogin       empty String is Invalid             12-January-2021 Tuesday EST 16:59:49                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Inial balance for a new bank account must be greater than 200. Please enter the amount that you want to deposit today             12-January-2021 Tuesday EST 16:59:49                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Enter the alias name for your bank. Keep blank if you don't want             12-January-2021 Tuesday EST 16:59:51                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Review your application. Type Y/y to confirm or type N/n for cancel             12-January-2021 Tuesday EST 16:59:57                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ----------------------------------------------------------------             12-January-2021 Tuesday EST 16:59:57                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Bank type: Checking, Initial deposit: 200.0, Alias name:              12-January-2021 Tuesday EST 16:59:57                
+[ERROR]        com.bank.account.login.CustomerAccountLogin       Invalid input value. Please try again...             12-January-2021 Tuesday EST 17:00:03                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Review your application. Type Y/y to confirm or type N/n for cancel             12-January-2021 Tuesday EST 17:00:03                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ----------------------------------------------------------------             12-January-2021 Tuesday EST 17:00:03                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Bank type: Checking, Initial deposit: 200.0, Alias name:              12-January-2021 Tuesday EST 17:00:03                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Your application has been submitted and will be approved or rejected by our employee in a few business days             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       CustomerID=1102, balance=200.0, bankType=Checking,aliasName=             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Customer Account Menu, Please select one option below             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       =========================================             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       1)View Customer Info Details              12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       2)Apply for a new Bank Account             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       3)View all bank accounts' details             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       4)Deposit or WithDrawal to a bank account             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       5)Make A Transaction             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       6)Transactions Center             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       7)Logout             12-January-2021 Tuesday EST 17:00:07                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Apply for a new Bank account. Please follow the instruction             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ---------------------------             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Please select a number from 1-4 for bank's type, select 5 to GO BACK             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       1)Checking             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       2)Saving             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       3)Investment             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       4)Retirement             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       5)GO BACK             12-January-2021 Tuesday EST 17:00:09                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Inial balance for a new bank account must be greater than 200. Please enter the amount that you want to deposit today             12-January-2021 Tuesday EST 17:00:11                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Enter the alias name for your bank. Keep blank if you don't want             12-January-2021 Tuesday EST 17:00:16                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Review your application. Type Y/y to confirm or type N/n for cancel             12-January-2021 Tuesday EST 17:00:23                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ----------------------------------------------------------------             12-January-2021 Tuesday EST 17:00:23                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Bank type: Checking, Initial deposit: 500.0, Alias name: checking             12-January-2021 Tuesday EST 17:00:23                
+[ERROR]        com.bank.account.login.CustomerAccountLogin       Invalid input value. Please try again...             12-January-2021 Tuesday EST 17:00:29                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Review your application. Type Y/y to confirm or type N/n for cancel             12-January-2021 Tuesday EST 17:00:29                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ----------------------------------------------------------------             12-January-2021 Tuesday EST 17:00:29                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Bank type: Checking, Initial deposit: 500.0, Alias name: checking             12-January-2021 Tuesday EST 17:00:29                
+[INFO]        com.bank.account.login.CustomerAccountLogin       Your application has been submitted and will be approved or rejected by our employee in a few business days             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       CustomerID=1102, balance=500.0, bankType=Checking,aliasName=checking             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Customer Account Menu, Please select one option below             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       =========================================             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       1)View Customer Info Details              12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       2)Apply for a new Bank Account             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       3)View all bank accounts' details             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       4)Deposit or WithDrawal to a bank account             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       5)Make A Transaction             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       6)Transactions Center             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       7)Logout             12-January-2021 Tuesday EST 17:00:33                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Loading bank accounts...             12-January-2021 Tuesday EST 17:00:38                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ---------------------------             12-January-2021 Tuesday EST 17:00:38                
+[INFO]        com.bank.account.login.CustomerAccountLogin       ---------------------------             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       You have 2 inactive bank accounts             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       BankAccount [accountNumber=0, cardNumber=null, bankType=Checking, balance=200.0, status=spending, aliasName=]             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       BankAccount [accountNumber=0, cardNumber=null, bankType=Checking, balance=500.0, status=spending, aliasName=checking]             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       
+Customer Account Menu, Please select one option below             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       =========================================             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       1)View Customer Info Details              12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       2)Apply for a new Bank Account             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       3)View all bank accounts' details             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       4)Deposit or WithDrawal to a bank account             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       5)Make A Transaction             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       6)Transactions Center             12-January-2021 Tuesday EST 17:00:39                
+[INFO]        com.bank.account.login.CustomerAccountLogin       7)Logout             12-January-2021 Tuesday EST 17:00:39                
