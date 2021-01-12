@@ -6,7 +6,7 @@ The Bank app is a console-based application that simulates banking operations. A
 
 **Design Diagram**
 
-![](./diagram/project_erd.png)
+![](./diagram/design_erd.png)
 
 ## Technologies / Dependencies
 
