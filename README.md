@@ -37,7 +37,7 @@ The Bank app is a console-based application that simulates banking operations. A
 1. Clone the project to your local machine and open it with a Maven Development Tool.
 2. Install a Postgres database in local or remoted host(RDS)
 3. Config database connecion url, username and password in package: com.bank.dbutil
-4. Create database following:
+4. Use sql files in sql folder to create database following:
 
 **ER Diagram**
 
