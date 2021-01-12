@@ -6,3 +6,65 @@
 [INFO]        com.bank.main.BankingMain       2)Register a new Customer account             13-November-2020 Friday EST 14:11:03                
 [INFO]        com.bank.main.BankingMain       3)EXIT Menu             13-November-2020 Friday EST 14:11:03                
 [INFO]        com.bank.main.BankingMain       Thank you for using Bank App.             13-November-2020 Friday EST 14:11:08                
+[INFO]        com.bank.main.BankingMain       Welcome to Hieu's Bank APP V1.0.0             12-January-2021 Tuesday EST 16:05:10                
+[INFO]        com.bank.main.BankingMain       --------------------------------------------------             12-January-2021 Tuesday EST 16:05:10                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:05:10                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:05:10                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:05:10                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:05:10                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:05:10                
+[INFO]        com.bank.main.BankingMain       
+Welcome to Login Account Menu, Please select one option below             12-January-2021 Tuesday EST 16:54:01                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:54:01                
+[INFO]        com.bank.main.BankingMain       1)I am a customer             12-January-2021 Tuesday EST 16:54:01                
+[INFO]        com.bank.main.BankingMain       2)I am a employee             12-January-2021 Tuesday EST 16:54:01                
+[INFO]        com.bank.main.BankingMain       3)Go Back             12-January-2021 Tuesday EST 16:54:01                
+[INFO]        com.bank.main.BankingMain       Enter employee username             12-January-2021 Tuesday EST 16:54:02                
+[INFO]        com.bank.main.BankingMain       Enter employee password             12-January-2021 Tuesday EST 16:54:06                
+[WARN]        com.bank.main.BankingMain       Sorry. System can't find any record that matchs with Employee username and password             12-January-2021 Tuesday EST 16:54:18                
+[INFO]        com.bank.main.BankingMain       
+Welcome to Login Account Menu, Please select one option below             12-January-2021 Tuesday EST 16:54:18                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:54:18                
+[INFO]        com.bank.main.BankingMain       1)I am a customer             12-January-2021 Tuesday EST 16:54:18                
+[INFO]        com.bank.main.BankingMain       2)I am a employee             12-January-2021 Tuesday EST 16:54:18                
+[INFO]        com.bank.main.BankingMain       3)Go Back             12-January-2021 Tuesday EST 16:54:18                
+[INFO]        com.bank.main.BankingMain       Back to User Menu...             12-January-2021 Tuesday EST 16:54:27                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:54:27                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:54:27                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:54:27                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:54:27                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:54:27                
+[INFO]        com.bank.main.BankingMain       Thank you for using Bank App.             12-January-2021 Tuesday EST 16:54:28                
+[INFO]        com.bank.main.BankingMain       Welcome to Hieu's Bank APP V1.0.0             12-January-2021 Tuesday EST 16:54:44                
+[INFO]        com.bank.main.BankingMain       --------------------------------------------------             12-January-2021 Tuesday EST 16:54:44                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:54:44                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:54:44                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:54:44                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:54:44                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:54:44                
+[INFO]        com.bank.main.BankingMain       
+Register a new Customer account. Please fill all the required fields             12-January-2021 Tuesday EST 16:54:46                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:54:46                
+[INFO]        com.bank.main.BankingMain       Please choose a username             12-January-2021 Tuesday EST 16:54:46                
+[INFO]        com.bank.main.BankingMain       Please choose a password which is satisfied:             12-January-2021 Tuesday EST 16:54:48                
+[INFO]        com.bank.main.BankingMain       1)Password is at least 6 character and no longer than 20 characters             12-January-2021 Tuesday EST 16:54:48                
+[INFO]        com.bank.main.BankingMain       2)Password has at least one uppercase and one lowercase letters             12-January-2021 Tuesday EST 16:54:48                
+[INFO]        com.bank.main.BankingMain       3)Password has at least one number             12-January-2021 Tuesday EST 16:54:48                
+[INFO]        com.bank.main.BankingMain       Enter your first name             12-January-2021 Tuesday EST 16:55:11                
+[INFO]        com.bank.main.BankingMain       Enter your last name             12-January-2021 Tuesday EST 16:55:18                
+[INFO]        com.bank.main.BankingMain       
+These are the Optional fields             12-January-2021 Tuesday EST 16:55:29                
+[INFO]        com.bank.main.BankingMain       ---------------------------             12-January-2021 Tuesday EST 16:55:29                
+[INFO]        com.bank.main.BankingMain       Enter your email , keep blank if you don't want             12-January-2021 Tuesday EST 16:55:29                
+[INFO]        com.bank.main.BankingMain       Enter your 10 digits phone number, keep blank if you don't want             12-January-2021 Tuesday EST 16:55:35                
+[INFO]        com.bank.main.BankingMain       Review your application. Type Y/y to confirm or type N/n for cancel             12-January-2021 Tuesday EST 16:55:47                
+[INFO]        com.bank.main.BankingMain       ----------------------------------------------------------------             12-January-2021 Tuesday EST 16:55:47                
+[INFO]        com.bank.main.BankingMain       Customer [email=, phone=2112211122, getId()=0, getUsername()=htl43, getPassword()=Abc123, getFirstName()=Henry, getLastName()=Tran]             12-January-2021 Tuesday EST 16:55:47                
+[WARN]        com.bank.dao.impl.UserFunctionsDAOImpl       ERROR: duplicate key value violates unique constraint "customer_account_username_key"
+  Detail: Key (username)=(htl43) already exists.             12-January-2021 Tuesday EST 16:55:56                
+[WARN]        com.bank.main.BankingMain       Error occured.. Please try again or kindly contact SYSADMIN             12-January-2021 Tuesday EST 16:55:56                
+[INFO]        com.bank.main.BankingMain       User Menu, Please select one option below             12-January-2021 Tuesday EST 16:55:56                
+[INFO]        com.bank.main.BankingMain       =========================================             12-January-2021 Tuesday EST 16:55:56                
+[INFO]        com.bank.main.BankingMain       1)Login to account             12-January-2021 Tuesday EST 16:55:56                
+[INFO]        com.bank.main.BankingMain       2)Register a new Customer account             12-January-2021 Tuesday EST 16:55:56                
+[INFO]        com.bank.main.BankingMain       3)EXIT Menu             12-January-2021 Tuesday EST 16:55:56                
