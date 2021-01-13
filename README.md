@@ -41,7 +41,7 @@ The Bank app is a console-based application that simulates banking operations. A
 
 **ER Diagram**
 
-![](./diagram/database_erd.png)
+![](./diagram/flowchart.png)
 
 5. Maven Update to build dependencies
 6. Go to the BankingMain.java in the main folder and run Java application
